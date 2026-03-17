@@ -6,6 +6,4 @@ Link Proyecto: https://colab.research.google.com/drive/1bXatqjJO7A_kbZCfP6YZMzbM
 
 Integrantes
 
-Andres Felipe Medina Guevara
-Stefanny Rojas Burgos
-Lady Marcela Sánchez Moreno
+Lady Marcela Sanchez Moreno 
