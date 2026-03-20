@@ -36,7 +36,7 @@ El desarrollo está organizado en tres módulos lógicos fundamentales:
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-*   **Lenguaje:** Python 3.x
+*   **Lenguaje:** Python 3.12.13
 *   **Librerías:** 
     *   `Pandas`: Manipulación de DataFrames.
     *   `Matplotlib` & `Seaborn`: Visualización de datos.
