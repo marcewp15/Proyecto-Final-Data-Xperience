@@ -63,4 +63,7 @@ El desarrollo está organizado en tres módulos lógicos fundamentales:
 *   **Eficacia del Modelo:** El modelo de clasificación permite segmentar con éxito el tipo de infraestructura basándose únicamente en métricas de rendimiento (velocidad).
 
 ---
+
+*   **Link Video:** https://www.canva.com/design/DAHEWV1KDww/BLf_Ti821x_8sjDat8cf2Q/edit?utm_content=DAHEWV1KDww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+*   **Link Google Colab:** https://colab.research.google.com/drive/1LChEe5V3rVjmoaVCUMeGNeT5Qm2U_ZNx?usp=sharing
 **Desarrollado como parte del programa Data Xperience - EAN 2026.**
