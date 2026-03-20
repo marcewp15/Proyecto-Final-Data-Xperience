@@ -66,4 +66,8 @@ El desarrollo está organizado en tres módulos lógicos fundamentales:
 
 *   **Link Video:** https://www.canva.com/design/DAHEWV1KDww/BLf_Ti821x_8sjDat8cf2Q/edit?utm_content=DAHEWV1KDww&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 *   **Link Google Colab:** https://colab.research.google.com/drive/1LChEe5V3rVjmoaVCUMeGNeT5Qm2U_ZNx?usp=sharing
+*   **Link Dataset usando en el proyecto:** https://drive.google.com/file/d/1oeRT7I3H27LmDPMtlpluM5FeChi3RkFX/view?usp=sharing
+  
+---
+
 **Desarrollado como parte del programa Data Xperience - EAN 2026.**
