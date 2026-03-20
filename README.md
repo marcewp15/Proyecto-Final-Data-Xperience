@@ -58,8 +58,8 @@ El desarrollo está organizado en tres módulos lógicos fundamentales:
 ---
 
 ## 📈 Conclusiones Destacadas
-*   **Concentración Urbana:** Los 10 departamentos principales que concentran la gran mayoría de la conectividad nacional.
-*   **Predominio de Hogares:** El segmento residencial (Hogares) representa el motor principal del crecimiento en accesos.
+*   **Concentración Urbana:** Los 10 departamentos principales que concentran la gran mayoría de la conectividad nacional. (Bogotá, Antioquia, Valle del Cauca, Cundinamarca, Atlántico, Santander, Bolívar, Tolima, Risaralda, Norte de Santander).
+*   **Predominio de Hogares:** El segmento residencial (Hogares) representa el motor principal del crecimiento en accesos. (Estratos 1, 2 y 3)
 *   **Eficacia del Modelo:** El modelo de clasificación permite segmentar con éxito el tipo de infraestructura basándose únicamente en métricas de rendimiento (velocidad).
 
 ---
